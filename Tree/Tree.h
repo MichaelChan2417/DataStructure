@@ -20,7 +20,6 @@ struct Tree {
 
 	// construction
 	Tree(int x);
-	Tree(string s);
 	Tree(vector<string> s);
 
 	// functions
